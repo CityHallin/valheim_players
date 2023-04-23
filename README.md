@@ -23,12 +23,9 @@ Review the rules for this Valheim Server.
 ## Access Server <a name="access"></a>
 Review the instructions below to access Cityhallin Valheim Dedicated Servers:
 
-1. Open Steam, click on your Valheim game, and see if it needs updates. If it needs updates, it will have a blue **Update** button. 
-<br />
-If it is already up to date, it will have a green **Play** button. Once you have the green **Play** button, click it to start Valheim. 
+1. Open Steam, click on your Valheim game, and see if it needs updates. If it needs updates, it will have a blue **Update** button. If it is already up to date, it will have a green **Play** button. Once you have the green **Play** button, click it to start Valheim. 
 
 <img src="./readme-files/gh12.png" width="500px">
-<br />
 <br />
 <img src="./readme-files/gh13.png" width="500px">
 <br />
@@ -72,6 +69,13 @@ If it is already up to date, it will have a green **Play** button. Once you have
 
 ## Troubleshooting <a name="issues"></a>
 The tips below can help if you have any issues. 
+<br />
+<br />
+
+### Find Steam ID
+Use the steps below to find your SteamID. 
+
+<img src="./readme-files/gh10.png" width="700px">
 <br />
 <br />
 
